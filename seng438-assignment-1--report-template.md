@@ -128,7 +128,10 @@ each step along the way. It was also easy to see patterns in some bugs (for exam
 $20 more was being dispensed for withdrawals under $100), but these patterns did not
 exist in all variables (when $200 was requested, $20 was dispensed). This showed
 the importance of not making assumptions or generalizations when testing applications
-for which you cannot see the code.
+for which you cannot see the code, and being thorough in testing many variables.
+A good lesson to learn was to press buttons which were not intended to be used,
+such as pressing buttons with no available option, or seeing the ATM log as a customer.
+It is important to ensure the system cannot be exploited when used improperly.
 
 # Comments/feedback on the lab and lab document itself
 
