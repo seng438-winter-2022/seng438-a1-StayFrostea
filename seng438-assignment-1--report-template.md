@@ -32,12 +32,55 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+The purpose of this lab was to have an introduction to the software testing
+process, and the application Backlog. A Java ATM application was provided 
+with two versions (1.0 and 1.1). Once we familiarized ourselves with the application
+and Backlog, exploratory testing, manual scripted testing and regression testing
+were performed.
+
+Before this lab, we were aware of how exploratory and scripted testing were performed,
+but had limited prior experience conducting and documenting testing in a more formal
+manner. The exploratory is a more natural form of testing, where realistic scenarios
+are performed on the application, and the results compiled. Scripted testing is 
 
 # High-level description of the exploratory testing plan
 
-Text…
+Appendix B of the lab document was read through before creating the exploratory test plan.
+From these requirements, we chose the following functions to target:
+-On button
+-Off button
+-Number buttons
+-Enter, cancel, clear buttons
+-Card verification
+-PIN verification
+-Initial balance settings
+-Withdrawals
+-Deposits
+-Receipt output
+-Log output
+
+From these functions, we divided the work into customer and operator components,
+and created more specific tests:
+
+Customer
+-Functionality of both cards
+-Withdrawals made in varying amounts, from each account
+-Deposits made in varying amounts, to each account
+-Transfers made in varying amounts between all combinations of accounts
+-Balance inquiries made for each account
+-Output of receipt terminal
+-Button functionality
+
+Operator
+-Start servicing of customers
+-Stop servicing of customers
+-Verification and entry of cash in machine
+-Handling of insufficient funds
+-Log output
+-Boundary conditions of PIN entry
+
+Due to the large number of sequences in which these functions can be performed,
+we performed exploratory testing in the small for this application.
 
 # Comparison of exploratory and manual functional testing
 
