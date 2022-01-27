@@ -111,11 +111,24 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided 
 
-Exploratory testing
+Exploratory testing was divided in two sections: customer and operator.
+Customer testing was performed by Melanie Nguyen and Heidi Schaefer.
+Operator testing was performed by Agam Aulakh and Jeff Roszell.
+Scripted testing was performed by Jeff Roszell and Heidi Schaefer.
+Defect reports were written by all group members.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+At first, exploratory testing was a bit overwhelming. As there were so many bugs 
+in the initial system, it was easy to second guess if we had clicked the button 
+we intended to (for example, when $20 was requested to be withdrawn, $40 was dispensed; 
+a transfer from checking to savings showed up as being from savings to checking 
+on receipt). In order to overcome this, we needed to be careful when recording
+each step along the way. It was also easy to see patterns in some bugs (for example,
+$20 more was being dispensed for withdrawals under $100), but these patterns did not
+exist in all variables (when $200 was requested, $20 was dispensed). This showed
+the importance of not making assumptions or generalizations when testing applications
+for which you cannot see the code.
 
 # Comments/feedback on the lab and lab document itself
 
