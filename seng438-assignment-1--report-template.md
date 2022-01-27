@@ -47,37 +47,37 @@ are performed on the application, and the results compiled. Scripted testing is
 
 Appendix B of the lab document was read through before creating the exploratory test plan.
 From these requirements, we chose the following functions to target:
-    -   On button
-    -   Off button
-    -   Number buttons
-    -   Enter, cancel, clear buttons
-    -   Card verification
-    -   PIN verification
-    -   Initial balance settings
-    -   Withdrawals
-    -   Deposits
-    -   Receipt output
-    -   Log output
+-   On button
+-   Off button
+-   Number buttons
+-   Enter, cancel, clear buttons
+-   Card verification
+-   PIN verification
+-   Initial balance settings
+-   Withdrawals
+-   Deposits
+-   Receipt output
+-   Log output
 
 From these functions, we divided the work into customer and operator components,
 and created more specific tests:
 
 Customer
-    -   Functionality of both cards
-    -   Withdrawals made in varying amounts, from each account
-    -   Deposits made in varying amounts, to each account
-    -   Transfers made in varying amounts between all combinations of accounts
-    -   Balance inquiries made for each account
-    -   Output of receipt terminal
-    -   Button functionality (numbers, enter, cancel, clear)
+-   Functionality of both cards
+-   Withdrawals made in varying amounts from each account
+-   Deposits made in varying amounts, to each account
+-   Transfers made in varying amounts between all combinations of accounts
+-   Balance inquiries made for each account
+-   Output of receipt terminal
+-   Button functionality (numbers, enter, cancel, clear)
 
 Operator
-    -   Start servicing of customers
-    -   Stop servicing of customers
-    -   Verification and entry of cash in machine
-    -   Handling of insufficient funds
-    -   Log output
-    -   Boundary conditions of PIN entry
+-   Start servicing of customers
+-   Stop servicing of customers
+-   Verification and entry of cash in machine
+-   Handling of insufficient funds
+-   Log output
+-   Boundary conditions of PIN entry
 
 Due to the large number of sequences in which these functions can be performed,
 we performed exploratory testing in the small for this application.
