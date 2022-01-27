@@ -114,7 +114,8 @@ Text…
 -   Exploratory testing was divided in two sections: customer and operator.
 -   Customer testing was performed by Melanie Nguyen and Heidi Schaefer.
 -   Operator testing was performed by Agam Aulakh and Jeff Roszell.
--   Scripted testing was performed by Jeff Roszell and Heidi Schaefer.
+-   Scripted testing was performed by Jeff Roszell 
+-   Regression testing was performed by all group members.
 -   Defect reports were written by all group members.
 
 # Difficulties encountered, challenges overcome, and lessons learned
