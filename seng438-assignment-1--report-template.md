@@ -35,13 +35,14 @@ learned	1](#_Toc439194682)
 The purpose of this lab was to have an introduction to the software testing
 process, and the application Backlog. A Java ATM application was provided 
 with two versions (1.0 and 1.1). Once we familiarized ourselves with the application
-and Backlog, exploratory testing, manual scripted testing and regression testing
+and Backlog, exploratory testing, manual scripted testing, and regression testing
 were performed.
 
 Before this lab, we were aware of how exploratory and scripted testing were performed,
-but had limited prior experience conducting and documenting testing in a more formal
+but had limited prior experience conducting and documenting testing in a more procedural
 manner. The exploratory is a more natural form of testing, where realistic scenarios
-are performed on the application, and the results compiled. Scripted testing is 
+are performed on the application with no strict plan, and the results compiled. 
+Scripted testing is more structured, as tests are designed first and executed after.
 
 # High-level description of the exploratory testing plan
 
@@ -110,7 +111,7 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+Exploratory testing
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
