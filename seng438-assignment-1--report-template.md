@@ -4,10 +4,10 @@
 
 | Group \#:       |   |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Student Names:  | Agampreet Aulakh |
+|                 | Melanie Nguyen |
+|                 | Jeff Roszell |
+|                 | Heidi Schaefer |
 
 **Table of Contents**
 
