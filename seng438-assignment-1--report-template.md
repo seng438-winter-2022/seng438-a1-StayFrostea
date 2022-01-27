@@ -90,7 +90,7 @@ the production of exploratory vs manual functional tests not valid for this lab.
 After conducting both testing styles, the results produced were quite
 similar. As the application was fairly small and something we were all
 familiar with, the main functionalities made obvious cases for our 
-exploratory testing, thus had been written in the exploratory testing as well. 
+exploratory testing, thus had been written in the scripted testing as well. 
 The most noticeable way the two types differed from one another
 was in the more unexpected inputs which were tested in the most human way:
 pressing buttons which were not intended to be pressed. These tests were not
