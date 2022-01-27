@@ -111,11 +111,11 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided 
 
-Exploratory testing was divided in two sections: customer and operator.
-Customer testing was performed by Melanie Nguyen and Heidi Schaefer.
-Operator testing was performed by Agam Aulakh and Jeff Roszell.
-Scripted testing was performed by Jeff Roszell and Heidi Schaefer.
-Defect reports were written by all group members.
+-   Exploratory testing was divided in two sections: customer and operator.
+-   Customer testing was performed by Melanie Nguyen and Heidi Schaefer.
+-   Operator testing was performed by Agam Aulakh and Jeff Roszell.
+-   Scripted testing was performed by Jeff Roszell and Heidi Schaefer.
+-   Defect reports were written by all group members.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
