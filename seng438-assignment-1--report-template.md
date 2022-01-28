@@ -107,7 +107,13 @@ was performed, as previously mentioned due to the vast number of possible sequen
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+The defect reports required a greater amount of information than we had originally
+anticipated. In order for another programmer to reproduce the bug, they must follow the
+exact same steps. No assumptions can be made on how much a programmer knows about
+the system they are debugging - despite how simple it may seem to someone who is
+familiar with the application. For the same reason, it is also imperative to write 
+what the expected output is. Something that seems obvious to one person can be
+very ambiguous to another.
 
 # How the pair testing was managed and team work/effort was divided 
 
@@ -136,4 +142,6 @@ It is important to ensure the system cannot be exploited when used improperly.
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+Good lab overall, it was interesting to compare exploratory testing and scripted testing.
+Learned how to use Backlog which seems like a great app for bug tracking. Lab document
+was thorough and clear.
